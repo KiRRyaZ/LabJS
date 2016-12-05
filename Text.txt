@@ -1,0 +1,885 @@
+Scope Notes
+2012
+Conference Proceedings Citation Index- Science (CPCI-S)
+
+Category Name:
+Acoustics
+Category Description:
+Acoustics covers resources on the study of the generation, control, transmission, reception, and effects of sounds. Relevant subjects include linear and nonlinear acoustics; atmospheric sound; underwater sound; the effects of mechanical vibrations; architectural acoustics; audio engineering; audiology; and ultrasound applications.
+
+Category Name:
+Agricultural Economics & Policy
+Category Description:
+Agricultural Economics & Policy covers resources concerning the production, distribution, and consumption of agricultural commodities as well as the managerial and policy decisions concerning these commodities.
+
+Category Name:
+Agricultural Engineering
+Category Description:
+Agricultural Engineering covers resources concerning many engineering applications in agriculture, including the design of machines, equipment, and buildings; soil and water engineering; irrigation and drainage engineering; crop harvesting, processing, and storage; animal production technology, housing, and equipment; precision agriculture; post-harvest processing and technology; rural development; agricultural mechanization; horticultural engineering; greenhouse structures and engineering, bioenergy and aquacultural engineering.
+
+Category Name:
+Agriculture, Dairy & Animal Science
+Category Description:
+Agriculture, Dairy & Animal Science covers resources on the selection, breeding and management of livestock, including animal science, animal nutrition, poultry science, animal breeding and genetics, dairy science, and animal production science.
+
+Category Name:
+Agriculture, Multidisciplinary
+Category Description:
+Agriculture, Multidisciplinary covers resources having a general or interdisciplinary approach to the agricultural sciences. Regional and multi-subject resources are also covered.
+
+Category Name:
+Agronomy
+Category Description:
+Agronomy covers resources on the selection, breeding, management, and post-harvest treatment of crops including crop protection and science, seed science, plant nutrition, plant and soil science, soil management and tillage, weed science, agroforestry, agroclimatology, and agricultural water management.
+
+Category Name:
+Allergy
+Category Description:
+Allergy covers resources dealing with the full spectrum of immunologically-mediated hypersensitivity reactions including immediate or acute hypersensitivity, dermatitis, and asthma. This category also covers resources on the underlying cellular and molecular immunology specific to allergic reactivity, pathogenesis, tissue damage, clinical presentation, and modes of treatment.
+
+Category Name:
+Anatomy & Morphology
+Category Description:
+Anatomy & Morphology includes resources describing the characteristics, generation, and organization of structure in vertebrates or invertebrates. Topics cover embryology, developmental morphology, and functional anatomy, as well as specific structures, systems, or organisms. Resources on plant structure and embryology are placed preferentially in the PLANT SCIENCE category.
+
+Category Name:
+Andrology
+Category Description:
+Andrology includes resources focused on the development, function, and disorders of male morphology and reproductive systems. Topics include gonad formation, gamete generation and function, male reproductive health and endocrinology, and sex determination in the male embryo.
+
+Category Name:
+Anesthesiology
+Category Description:
+Anesthesiology covers resources that focus on the administration of anesthetics, the treatment of pain, and the use of life support systems. This category also includes specific resources on cardiovascular anesthesia, pediatric anesthesia, and neurosurgical anesthesia.
+
+Category Name:
+Astronomy & Astrophysics
+Category Description:
+Astronomy & Astrophysics covers resources that focus on the science of the celestial bodies and their magnitudes, motions, and constitution. Topics include the properties of celestial bodies such as luminosity, size, mass, density, temperature, and chemical composition, as well as their origin and evolution. This category includes some resources on planetary science that focus on astrophysical aspects of planets. General resources on planetary science are placed in the GEOCHEMISTRY & GEOPHYSICS category.
+
+Category Name:
+Audiology & Speech-Language Pathology
+Category Description:
+Audiology & Speech-Language Pathology covers resources on the basic science and clinical research aspects of speech, language, communication and hearing disorders. This category will also cover all areas of audiology as well as clinical management (diagnosis, prevention and treatment) of the above disorders.
+
+Category Name:
+Automation & Control Systems
+Category Description:
+Automation & Control Systems covers resources on the design and development of processes and systems that minimize the necessity of human intervention. Resources in this category cover control theory, control engineering, and laboratory and manufacturing automation.
+
+Category Name:
+Behavioral Sciences
+Category Description:
+Behavioral Sciences covers resources dealing with the biological correlates of observable action in humans or animals. These include aggression, sexual behavior, and learning as well as the various factors, natural or pharmacological, that alter such behaviors. Resources in this category cover neurobiology, experimental psychology, ethology, cognitive assessment, and behavioral consequences of neurological disorders.
+
+Category Name:
+Biochemical Research Methods
+Category Description:
+Biochemical Research Methods includes resources that describe specific techniques used in biological and biochemical research, including methods for the purification and analysis of biomolecules, the observation of the structure or function of living organisms and tissues (exclusive of microscopy), and the alteration of biomolecules for specific research applications. This category does not cover clinical applications or the development and design of diagnostic tools.
+
+Category Name:
+Biochemistry & Molecular Biology
+Category Description:
+Biochemistry & Molecular Biology covers resources on general biochemistry and molecular biology topics such as carbohydrates, lipids, proteins, nucleic acids, genes, drugs, toxic substances, and other chemical or molecular constituents of cells, microbes, and higher plants and animals, including humans.
+
+Excluded are resources that are focus on biochemistry in cells, tissues or organs and those whose primary focus is the organism of study, e.g. plants, microbes, etc. Excluded, also, are resources that focus on methods in biochemistry or molecular biology.
+
+Category Name:
+Biodiversity Conservation
+Category Description:
+Biodiversity Conservation covers resources on the conservation management of species and ecosystems. Topics include conservation ecology, biological conservation, paleobiology, natural history and the natural sciences.
+
+Category Name:
+Biology
+Category Description:
+The Biology category includes resources having a broad or interdisciplinary approach to biology. In addition, it includes materials that cover a specific area of biology not covered in other categories such as theoretical biology, mathematical biology, thermal biology, cryobiology, and biological rhythm research.
+
+Category Name:
+Biophysics
+Category Description:
+Biophysics covers resources that focus on the transfer and effects of physical forces and energy-light, sound, electricity, magnetism, heat, cold, pressure, mechanical forces, and radiation-within and on cells, tissues, and whole organisms.
+
+Category Name:
+Biotechnology & Applied Microbiology
+Category Description:
+Biotechnology & Applied Microbiology includes resources that cover a broad range of topics on the manipulation of living organisms to make products or solve problems to meet human needs. Topics include genetic engineering; molecular diagnostic and therapeutic techniques; genome data mining; bioprocessing of food and drugs; biological control of pests; environmental bioremediation; and bio-energy production. This category also covers resources that deal with the related social, business, and regulatory issues.
+
+Category Name:
+Cardiac & Cardiovascular Systems
+Category Description:
+Cardiac & Cardiovascular Systems covers resources dealing with the diagnosis and treatment of heart disease. Coverage focuses on cardiac disease prevention, pharmacology, surgery, transplantation, and research. This category also includes cardiac testing, pacemakers, and medical devices. Resources focusing on circulation, hypertension, arterial disease, and stroke are placed in the PERIPHERAL VASCULAR DISEASE category.
+
+Category Name:
+Cell Biology
+Category Description:
+Cell Biology includes resources on all aspects of the structure and function of eukaryotic cells. The principle characteristic of resources in this category is an emphasis on the integration at the cellular level of biochemical, molecular, genetic, physiological, and pathological information. This category considers material on specific tissues, differentiated as well as embryonic.
+
+Category Name:
+Cell & Tissue Engineering
+Category Description:
+Cell & Tissue Engineering covers resources that apply technology to the chemical, mechanical, and electrical alteration or preparation of cells and tissues. Cell regions that can be redesigned and manipulated include: the membrane, receptors, cytoplasm, cytoskeleton, genes, and matrix. Resources in this category span a range of technologies including: engineering regeneration of nerve, adipose or endothelial tissue; developing various types of engineered stem cells; and biomechanical aspects of engineered tissue/cells. This category does not include resources on clinical interventions.
+
+Category Name:
+Chemistry, Analytical
+Category Description:
+Chemistry, Analytical covers resources on the techniques that yield any type of information about chemical systems. Topics include chromatography, thermal analysis, chemometrics, separation techniques, pyrolysis, and electroanalytical and radioanalytical chemistry. Some spectroscopy resources may be included in this category when focusing on analytical techniques and applications in chemistry.
+
+Category Name:
+Chemistry, Applied
+Category Description:
+Chemistry, Applied covers resources that report on the application of basic chemical sciences to other sciences, engineering, and industry. Topics include chemical engineering (catalysis, fuel processing, microencapsulation, and functional polymers); food science and technology (cereals, hydrocolloids, and food additives); medicinal chemistry (pharmacology); dyes and pigments; coatings technology; and cosmetics.
+
+Category Name:
+Chemistry, Inorganic & Nuclear
+Category Description:
+Chemistry, Inorganic & Nuclear includes resources on both inorganic and nuclear chemistry. Chemistry, Inorganic covers resources that are concerned with non-carbon elements and the preparation, properties, and reactions of their compounds. It also includes resources on the study of certain simple carbon compounds, including the oxides, carbon disulfide, the halides, hydrogen cyanide, and salts, such as the cyanides, cyanates, carbonates, and hydrogencarbonates. Resources on coordination chemistry and organo-metallic compounds (those containing a carbon-metal bond) are also covered in this category. Chemistry, Nuclear includes resources on the study of the atomic nucleus, including fission and fusion reactions and their products. This category also covers radiochemistry resources focusing on such topics as the preparation of radioactive compounds, the separation of isotopes by chemical reactions, the use of radioactive labels in studies of mechanisms, and experiments on the chemical reactions and compounds of transuranic elements.
+
+Category Name:
+Chemistry, Medicinal
+Category Description:
+Chemistry, Medicinal includes resources emphasizing the isolation and study of substances with therapeutic potential. Topics of interest are quantitative structure-function relationships, structural characterization and organic syntheses of naturally occurring compounds, and chemical and analytical techniques used in rational drug design. See also the PHARMACOLOGY & PHARMACY category.
+
+Category Name:
+Chemistry, Multidisciplinary
+Category Description:
+Chemistry, Multidisciplinary includes resources having a general or interdisciplinary approach to the chemical sciences. Special topic chemistry resources that have relevance to many areas of chemistry are also included in this category. Resources having a primary focus on analytical, inorganic and nuclear, organic, physical, or polymer chemistry are placed in their own categories.
+
+Category Name:
+Chemistry, Organic
+Category Description:
+Chemistry, Organic includes resources that focus on synthetic and natural organic compounds their synthesis, structure, properties, and reactivity. Research on hydrocarbons, a major area of organic chemistry, is included in this category.
+
+Category Name:
+Chemistry, Physical
+Category Description:
+Chemistry, Physical includes resources on photochemistry, solid state chemistry, kinetics, catalysis, quantum chemistry, surface chemistry, electrochemistry, chemical thermodynamics, thermophysics, colloids, fullerenes, and zeolites.
+
+Category Name:
+Clinical Neurology
+Category Description:
+Clinical Neurology covers resources on all areas of clinical research and medical practice in neurology. The focus is on traditional neurological illnesses and diseases such as dementia, stroke, epilepsy, headache, multiple sclerosis, and movement disorders that have clinical and socio-economic importance. This category also includes resources on medical specialties such as pediatric neurology, neurosurgery, neuroradiology, pain management, and neuropsychiatry that affect neurological diagnosis and treatment.
+
+Category Name:
+Computer Science, Artificial Intelligence
+Category Description:
+Computer Science, Artificial Intelligence covers resources that focus on research and techniques to create machines that attempt to efficiently reason, problem-solve, use knowledge representation, and perform analysis of contradictory or ambiguous information. This category includes resources on artificial intelligence technologies such as expert systems, fuzzy systems, natural language processing, speech recognition, pattern recognition, computer vision, decision-support systems, knowledge bases, and neural networks.
+
+Category Name:
+Computer Science, Cybernetics
+Category Description:
+Computer Science, Cybernetics includes resources that focus on the control and information flows within and between artificial (machine) and biological systems. Resources in this category draw from the fields of artificial intelligence, automatic control, and robotics.
+
+Category Name:
+Computer Science, Hardware & Architecture
+Category Description:
+Computer Science, Hardware & Architecture covers resources on the physical components of a computer system: main and logic boards, internal buses and interfaces, static and dynamic memory, storage devices and storage media, power supplies, input and output devices, networking interfaces, and networking hardware such as routers and bridges. Resources in this category also cover the architecture of computing devices, such as SPARC, RISC, and CISC designs, as well as scalable, parallel, and multi-processor computing architectures.
+
+Category Name:
+Computer Science, Information Systems
+Category Description:
+Computer Science, Information Systems covers resources that focus on the acquisition, processing, storage, management, and dissemination of electronic information that can be read by humans, machines, or both. This category also includes resources for telecommunications systems and discipline-specific subjects such as medical informatics, chemical information processing systems, geographical information systems, and some library science.
+
+Category Name:
+Computer Science, Interdisciplinary Applications
+Category Description:
+Computer Science, Interdisciplinary Applications includes resources concerned with the application of computer technology and methodology to other disciplines, such as information management, engineering, biology, medicine, environmental studies, geosciences, arts and humanities, agriculture, chemistry, and physics.
+
+Category Name:
+Computer Science, Software Engineering
+Category Description:
+Computer Science, Software Engineering includes resources that are concerned with the programs, routines, and symbolic languages that control the functioning of the hardware and direct its operation. Also covered in this category are computer graphics, digital signal processing, and programming languages.
+
+Category Name:
+Computer Science, Theory & Methods
+Category Description:
+Computer Science, Theory & Methods includes resources that emphasize experimental computer processing methods or programming techniques such as parallel computing, distributed computing, logic programming, object-oriented programming, high-speed computing, and supercomputing.
+
+Category Name:
+Construction & Building Technology
+Category Description:
+Construction & Building Technology includes resources that provide information on the physical features and design of structures (e.g., buildings, dams, bridges, tunnels) and the materials used to construct them (concrete, cement, steel). Other topics covered in this category include heating and air conditioning, energy systems, and indoor air quality.
+
+Category Name:
+Critical Care Medicine
+Category Description:
+Critical Care Medicine covers resources on healthcare specialties that focus on the care of patients with acute, life-threatening illness or injury. This category covers resources such as heart attack; poisoning; burns, pneumonia; surgical complications; premature birth; trauma including head trauma; stroke, and other neural injuries; intensive care anesthesia; and resuscitation.
+
+Category Name:
+Crystallography
+Category Description:
+Crystallography covers resources that report on the study of the formation, structure, and properties of crystals. This category also includes resources on X-ray crystallography, the study of the internal structure of crystals through the use of X-ray diffraction.
+
+Category Name:
+Dentistry, Oral Surgery & Medicine
+Category Description:
+Dentistry, Oral Surgery & Medicine covers resources on the anatomy, physiology, biochemistry, and pathology of the teeth and oral cavity. This category includes specific resources on periodontal disease, dental implants, oral and maxillofacial surgery, oral pathology, and oral surgery. Coverage also includes resources on community dentistry, public health dentistry, and pediatric dentistry.
+
+Category Name:
+Dermatology
+Category Description:
+Dermatology covers resources on the anatomy, physiology, and pathology of the skin. It contains resources on investigative and experimental dermatology, contact dermatitis, dermatologic surgery, dermatologic pathology, and dermatologic oncology. This category also includes specific resources on burns, wounds and leprosy.
+
+Category Name:
+Developmental Biology
+Category Description:
+Developmental Biology includes resources focused on the specific mechanisms of cell, tissue, and organism development, as well as gametogenesis, fertilization, biochemistry and molecular genetic control of development, cell biology of gametes and zygotes, and embryology.
+
+Category Name:
+Ecology
+Category Description:
+Ecology covers resources concerning many areas relating to the study of the interrelationship of organisms and their environments, including ecological economics, ecological engineering, ecotoxicology, ecological modeling, evolutionary ecology, biogeography, chemical ecology, marine ecology, wildlife research, microbial ecology, molecular ecology, and population ecology. This category also includes general ecology resources and ones devoted to particular ecological systems.
+
+Category Name:
+Education, Scientific Disciplines
+Category Description:
+Education, Scientific Disciplines covers all education resources in the scientific disciplines, including biology, pharmacy, biochemistry, engineering, chemistry, nutrition, and medicine.
+
+Category Name:
+Electrochemistry
+Category Description:
+Electrochemistry covers resources that deal with the chemical changes produced by electricity and the generation of electricity by chemical reactions. Applications include dry cells, lead plate, storage batteries, electroplating, electrodeposition (electrolysis), purification of copper, production of aluminum, fuel cells, and corrosion of metals.
+
+Category Name:
+Emergency Medicine
+Category Description:
+Emergency Medicine covers resources on the science, education, and clinical practice of emergency medicine. Coverage spans the breadth of the specialty on trauma, pediatrics, toxicology, injury prevention and control, resuscitation, and emergency medical services.
+
+Category Name:
+Endocrinology & Metabolism
+Category Description:
+Endocrinology & Metabolism includes resources focused on endocrine glands; the regulation of cell, organ, and system function by the action of secreted hormones; the generation and chemical/biological properties of these substances; and the pathogenesis and treatment of disorders associated with either source or target organs. Specific areas covered include neuroendocrinology, reproductive endocrinology, pancreatic hormones and diabetes, regulation of bone formation and loss, and control of growth.
+
+Category Name:
+Energy & Fuels
+Category Description:
+Energy & Fuels covers resources on the development, production, use, application, conversion, and management of nonrenewable (combustible) fuels (such as wood, coal, petroleum, and gas) and renewable energy sources (solar, wind, biomass, geothermal, hydroelectric). Note: Resources dealing with nuclear energy and nuclear technology appear in the NUCLEAR SCIENCE & TECHNOLOGY category.
+
+Category Name:
+Engineering, Aerospace
+Category Description:
+Engineering, Aerospace includes resources concerned with astronautics, aeronautics, aerospace, and aviation. Topics covered include the design and construction of aircraft, space vehicles, missiles, satellites, instrumentation, and power units, as well as the launch, flight, and guidance of crafts in the earth's atmosphere or in space. Resources in this category draw from many fields, including mechanics and mechanical engineering, automation, instrumentation, and materials science.
+
+Category Name:
+Engineering, Biomedical
+Category Description:
+Engineering, Biomedical covers resources that apply engineering technology to solving medical problems. Resources in this category span a wide range of applications including applied biomechanics, biorheology, medical imaging, medical monitoring equipment, artificial organs, and implanted materials and devices.
+
+Category Name:
+Engineering, Chemical
+Category Description:
+Engineering, Chemical covers resources that discuss the chemical conversion of raw materials into a variety of products. This category includes resources that deal with the design and operation of efficient and cost-effective plants and equipment for the production of the various end products.
+
+Category Name:
+Engineering, Civil
+Category Description:
+Engineering, Civil includes resources on the planning, design, construction, and maintenance of fixed structures and ground facilities for industry, occupancy, transportation, use and control of water, and harbor facilities. Resources also may cover the sub-fields of structural engineering, geotechnics, earthquake engineering, ocean engineering, water resources and supply, marine engineering, transportation engineering, and municipal engineering.
+
+Category Name:
+Engineering, Electrical & Electronic
+Category Description:
+Engineering, Electrical & Electronic covers resources that deal with the applications of electricity, generally those involving current flows through conductors, as in motors and generators. This category also includes resources that cover the conduction of electricity through gases or a vacuum as well as through semiconducting and superconducting materials. Other relevant topics in this category include image and signal processing, electromagnetics, electronic components and materials, microwave technology, and microelectronics.
+
+Category Name:
+Engineering, Environmental
+Category Description:
+Engineering, Environmental includes resources that discuss the effects of human beings on the environment and the development of controls to minimize environmental degradation. Relevant topics in this category include water and air pollution control, hazardous waste management, land reclamation, pollution prevention, bioremediation, incineration, management of sludge problems, landfill and waste repository design and construction, facility decommissioning, and environmental policy and compliance.
+
+Category Name:
+Engineering, Geological
+Category Description:
+Engineering, Geological includes multidisciplinary resources that encompass the knowledge and experience drawn from both the geosciences and various engineering disciplines (primarily civil engineering). Resources in this category cover geotechnical engineering, geotechnics, geotechnology, soil dynamics, earthquake engineering, geotextiles and geomembranes, engineering geology, and rock mechanics.
+
+Category Name:
+Engineering, Industrial
+Category Description:
+Engineering, Industrial includes resources that focus on engineering systems that integrate people, materials, capital, and equipment to provide products and services. Relevant topics covered in the category include operations research, process engineering, productivity engineering, manufacturing, computer-integrated manufacturing (CIM), industrial economics, and design engineering.
+
+Category Name:
+Engineering, Manufacturing
+Category Description:
+Engineering, Manufacturing covers resources on the conversion of raw materials into end-use products or processed materials. Topics in this category include computer-integrated manufacturing (CIM), computer-aided design (CAD), and computer-aided manufacturing (CAM); design of products, tools, and machines; quality control; scheduling; production; and inventory control.
+
+Category Name:
+Engineering, Marine
+Category Description:
+Engineering, Marine includes resources that focus on the environmental and physical constraints an engineer must consider in the design, construction, navigation, and propulsion of ships and other sea vessels.
+
+Category Name:
+Engineering, Mechanical
+Category Description:
+Engineering, Mechanical includes resources on the generation, transmission, and use of heat and mechanical power, as well as with the production and operation of tools, machinery, and their products. Topics in this category include heat transfer and thermodynamics, fatigue and fracture, wear, tribology, energy conversion, hydraulics, pneumatics, microelectronics, plasticity, strain analysis, and aerosol technology.
+
+Category Name:
+Engineering, Multidisciplinary
+Category Description:
+Engineering, Multidisciplinary covers resources having a general or interdisciplinary approach to engineering. Relevant topics include computer science and mathematics in engineering, engineering education, reliability studies, and audio engineering.
+
+Category Name:
+Engineering, Ocean
+Category Description:
+Engineering, Ocean includes resources concerned with the development of equipment and techniques that allow humans to operate successfully beneath and on the surface of the ocean in order to develop and utilize marine resources.
+
+Category Name:
+Engineering, Petroleum
+Category Description:
+Engineering, Petroleum covers resources that report on a combination of engineering concepts, methods, and techniques on drilling and extracting hydrocarbons and other fluids from the earth (e.g., chemical flooding, thermal flooding, miscible displacement techniques, and horizontal drilling) and on the refining process. Relevant topics in this category include drilling engineering, production engineering, reservoir engineering, and formation evaluation, which infers reservoir properties through indirect measurements.
+
+Category Name:
+Entomology
+Category Description:
+Entomology covers resources concerning many aspects of the study of insects, including general entomology, applied entomology, regional entomology, apidology, aquatic insects, insect biochemistry and physiology, economic entomology, integrated pest management, environmental entomology, and pesticide science.
+
+Category Name:
+Environmental Sciences
+Category Description:
+Environmental Sciences covers resources concerning many aspects of the study of the environment, among them environmental contamination and toxicology, environmental health, environmental monitoring, environmental geology, and environmental management. This category also includes soil science and conservation, water resources research and engineering and climate change.
+
+Category Name:
+Evolutionary Biology
+Category Description:
+Evolutionary Biology covers resources concerning the molecular, natural selection, and population mechanisms of evolution; the evolution of species and related groups; the classification of organisms based on evolutionary relationships; and the biology and ecology of extinct organisms.
+
+Category Name:
+Fisheries
+Category Description:
+Fisheries covers resources concerning numerous aspects of fisheries science, technology and industry, including fish pathology, fish physiology and biochemistry, fish diseases and aquaculture.
+
+Category Name:
+Food Science & Technology
+Category Description:
+Food Science & Technology covers resources concerning various aspects of food research and production, including food additives and contaminants, food chemistry and biochemistry, meat science, food microbiology and technology, dairy science, food engineering and processing, cereal science, brewing, and food quality and safety.
+
+Category Name:
+Forestry
+Category Description:
+Forestry covers resources concerning the science and technology involved in establishing, maintaining and managing forests for various uses, including wood production, water resource management, wildlife conservation and recreation.
+
+Category Name:
+Gastroenterology & Hepatology
+Category Description:
+Gastroenterology & Hepatology covers resources on the anatomy, physiology, biochemistry, and pathology of the digestive system. This category includes specific resources on the prognosis and treatment of digestive diseases; stomach ulcers; metabolic, genetic, infectious and chemically induced diseases of the liver; colitis; diseases of the pancreas and diseases of the rectum.
+
+Category Name:
+Genetics & Heredity
+Category Description:
+Genetics & Heredity includes resources that deal with the structure, functions, and properties of genes, and the characteristics of inheritance. This category also considers heritable traits, population genetics, frequency and distribution of polymorphism, as well as inherited diseases and disorders of the replicative process. The category is distinguishable from Biochemistry & Molecular Biology by its specific emphasis on the gene as a single functional unit, and on the gene's effect on the organism as a whole.
+
+Category Name:
+Geochemistry & Geophysics
+Category Description:
+Resources in this category may focus on either Geochemistry or Geophysics or both. Geochemistry covers resources that deal with the chemical composition and chemical changes in the Earth or other planets or asteroids. Topics include research on related chemical and geological properties of substances, applied geochemistry, organic geochemistry, and biogeochemistry. Geophysics covers resources on the application of the methods and techniques of physics to the study of the structure of the Earth and the processes affecting it. Topics addressed include seismology, tectonics, tectonophysics, geomagnetism, radioactivity, and rock mechanics.
+
+Category Name:
+Geography, Physical
+Category Description:
+Geography, Physical covers resources dealing with the differentiation of areas of the Earth's surface as shown in the character, arrangement, and interrelations over the world of such elements as climate, elevation, soil, vegetation, population, land use, industries, or states, as well as the unit areas formed by the complex of these individual elements. Resources which focus on economic, human, and urban topics are covered in the SSCI GEOGRAPHY category.
+
+Category Name:
+Geology
+Category Description:
+Geology covers resources that deal with the physical history of the Earth, the rock of which it is composed, and the physical changes (not the physics) that the Earth has undergone or is undergoing. Resources in this category cover sedimentology, stratigraphy, hydrogeology, ore geology, structural geology, regional geology, and petrology. These resources are somewhat narrow in scope and are not given to the interdisciplinary study of the Earth Sciences.
+
+Category Name:
+Geosciences, Multidisciplinary
+Category Description:
+Geosciences, Multidisciplinary covers resources having a general or interdisciplinary approach to the study of the Earth and other planets. Relevant topics include geology, geochemistry/geophysics, hydrology, paleontology, oceanography, meteorology, mineralogy, geography, and energy and fuels. Resources having a primary focus on geology, or geochemistry & geophysics are placed in their own categories.
+
+Category Name:
+Geriatrics & Gerontology
+Category Description:
+Geriatrics & Gerontology covers resources on the aged and the aging process. This category includes the clinical, biochemical, histological, and psychological aspects of aging. Coverage also includes specific clinical problems in the treatment of elderly patients, as well as research on the cellular and animal correlates of age and senescence. Resources that focus on the psychological, social, and political aspects of aging are covered in the SSCI.
+
+Category Name:
+Health Care Sciences & Services
+Category Description:
+Health Care Sciences & Services covers resources on health services, hospital administration, health care management, health care financing, health policy and planning, health economics, health education, history of medicine, and palliative care.
+
+Category Name:
+Hematology
+Category Description:
+Hematology covers resources that deal with blood and blood-forming tissues, as well as the functions, diseases, and treatments of these systems. Topics included are hemophilia, neoplastic disorders of the blood or lymphoid tissues, and mechanisms and disorders of thrombosis.
+
+Category Name:
+History & Philosophy of Science
+Category Description:
+History & Philosophy of Science covers resources on the historical and logical connections in the development of the scientific method and in scientific discoveries.
+
+Category Name:
+Horticulture
+Category Description:
+Horticulture covers resources concerning the cultivation of flowers, fruits, vegetables or ornamental plants, in gardens, orchards or nurseries.
+
+Category Name:
+Imaging Science & Photographic Technology
+Category Description:
+Imaging Science & Photographic Technology includes resources that cover pattern recognition, analog and digital signal processing, remote sensing, and optical technology. This category also covers resources on the photographic process (the engineering of photographic devices and the chemistry of photography) as well as machine-aided imaging, recording materials and media, and visual communication and image representation.
+
+Category Name:
+Immunology
+Category Description:
+Immunology covers resources dedicated to all aspects of immune response and regulation, at the cellular-molecular level as well as the clinical level. Other topics include studies of the interaction between pathogens and host immunity, as well as clinical immunology, emerging immunotherapies, and the immunologic contribution to disease course.
+
+Category Name:
+Infectious Diseases
+Category Description:
+Infectious Diseases covers resources on all aspects of the pathogenesis of clinically significant viral or bacterial diseases including HIV, AIDS, sexually transmitted diseases (STDs). This category is also concerned with resources on host-pathogen interactions, as well as the prevention, diagnosis, treatment, and epidemiology of infectious disease.
+
+Category Name:
+Instruments & Instrumentation
+Category Description:
+Instruments & Instrumentation includes resources on the application of instruments for observation, measurement, or control of physical and/or chemical systems. This category also includes materials on the development and manufacture of instruments.
+
+Category Name:
+Integrative & Complementary Medicine
+Category Description:
+Integrative & Complementary Medicine covers resources on the practical use of allopathic, alternative and/or complementary medicine and therapies in preventing and treating disease, healing illness, and promoting health. The category is concerned with resources on alternative systems of practice that provide for an overall rational and comprehensive approach to healthcare. Topics such as bioelectromagnetics applications; herbal medicine; diet, nutrition and lifestyle changes; manual healing methods; mind/body interventions; and pharmacological and biological treatment as well as any other unconventional health care practices are included in this category.
+
+Category Name:
+Limnology
+Category Description:
+Limnology covers resources concerning the study of the physical, chemical, meteorological, biological and ecological aspects of freshwaters.
+
+Category Name:
+Logic
+Category Description:
+Logic covers resources on the study of logic in all its forms, including mathematical logic (pure and applied), philosophical logic and computational logic (or logic in computer science, theoretical and applied). Based on the particular scope of the resource, it may be cross-referenced in a Mathematics, Philosophy or Computer Science category.
+
+Category Name:
+Marine & Freshwater Biology
+Category Description:
+Marine & Freshwater Biology covers resources concerning many aquatic sciences, including marine ecology and environmental research, aquatic biology, marine pollution and toxicology, aquatic botany and plant management, estuarine and coastal research, diseases of aquatic organisms, molluscan and shellfish research, fish biology and biofouling.
+
+Category Name:
+Materials Science, Biomaterials
+Category Description:
+Materials Science, Biomaterials includes resources that analyze the physical characteristics of living tissue to aid in the development of synthetic replacements for repairs or augmentation of functions. Resources in this category cover the development, testing, performance, and biocompatibility of engineered biomaterials in vitro and in vivo for purposes such as medical implants, devices, and sensors.
+
+Category Name:
+Materials Science, Ceramics
+Category Description:
+Materials Science, Ceramics covers resources that deal with inorganic materials with high-temperature melting points, including silicates and aluminosilicates, refractory metal oxides and metal nitrides, and borides. This category also includes resources discussing products such as earthenware, porcelain, brick, glass, and vitreous enamels.
+
+Category Name:
+Materials Science, Characterization & Testing
+Category Description:
+Materials Science, Characterization & Testing covers resources that focus on techniques used to evaluate and test materials. These techniques include nondestructive testing, diffraction analysis, electron microscopy, electron spectroscopy, ion beam analysis, mechanical testing, optical characterization, and scanning tunneling microscopy.
+
+Category Name:
+Materials Science, Coatings & Films
+Category Description:
+Materials Science, Coatings & Films covers resources that concentrate on research in coatings and films applied to a base material (substrate). Metals, alloys, resin solutions, and solid/liquid suspensions are the coatings most commonly used in industry. Application methods include electrolysis, vapor deposition, vacuum, or mechanical means such as spraying, calendering, roller coating, extrusion, or thermosetting.
+
+Category Name:
+Materials Science, Composites
+Category Description:
+Materials Science, Composites covers resources that focus on mixtures or mechanical combinations of two or more materials that are solid in the finished state, are mutually insoluble, and differ in chemical nature. The major types of composites are 1) laminates of paper, fabric, or wood and a thermosetting material; 2) reinforced plastics; 3) cermets (ceramic and metal powders); 4) fabrics of natural and synthetic fibers; and 5) filled composites, in which a bonding material is loaded with filler in the form of flakes or small particles.
+
+Category Name:
+Materials Science, Multidisciplinary
+Category Description:
+Materials Science, Multidisciplinary covers resources having a general or multidisciplinary approach to the study of the nature, behavior, and use of materials. Relevant topics include ceramics, composites, alloys, metals and metallurgy, nanotechnology, nuclear materials, and adhesion and adhesives.
+
+Category Name:
+Materials Science, Paper & Wood
+Category Description:
+Materials Science, Paper & Wood includes resources that cover all aspects of wood and/or paper production. Topics include cellulose chemistry and technology, pulp and paper science, paper fabrication techniques, and wood and fiber science and technology.
+
+Category Name:
+Materials Science, Textiles
+Category Description:
+Materials Science, Textiles covers resources that focus on the manufacture of clothing and furniture from materials made of natural fibers (e.g., leather, cotton, wool, wood) and/or synthetic fibers (e.g., polyester, vinyl, nylon). Resources covering dyes and colors and fiber chemistry are also included.
+
+Category Name:
+Mathematical & Computational Biology
+Category Description:
+Mathematical and Computational Biology includes resources concerning the use of mathematical, statistical and computational methods to address data analysis, modeling, and information management in biological problems, processes and systems. Among the areas covered are biostatistics, bioinformatics, biometrics, modeling of biological systems, and computational biology.
+
+Category Name:
+Mathematics
+Category Description:
+Mathematics covers resources having a broad, general approach to the field. The category also includes resources focusing on specific fields of basic research in Mathematics such as topology, algebra, functional analysis, combinatorial theory, differential geometry and number theory.
+
+Category Name:
+Mathematics, Applied
+Category Description:
+Mathematics, Applied covers resources concerned with areas of mathematics that may be applied to other fields of science. It includes areas such as differential equations, numerical analysis, nonlinearity, control, software, systems analysis, computational mathematics and mathematical modeling. Resources that are concerned with mathematical methods and whose primary focus is on a specific non-mathematics discipline (except biology) such as psychology, history, economics etc., are covered in the MATHEMATICS, INTERDISCIPLINARY APPLICATIONS category. Resources focusing on mathematical biology are covered in the MATHEMATICAL & COMPUTATIONAL BIOLOGY category.
+
+Category Name:
+Mathematics, Interdisciplinary Applications
+Category Description:
+Mathematics, Interdisciplinary Applications includes resources concerned with mathematical methods whose primary focus is on a specific non-mathematics discipline (except biology) such as psychology, history, economics, etc. Resources that deal with mathematical biology are covered in the MATHEMATICAL AND COMPUTATIONAL BIOLOGY category. Resources that focus on specific mathematical topics such as differential equations, numerical analysis, nonlinearity, etc., are covered in the MATHEMATICS, APPLIED category.
+
+Category Name:
+Mechanics
+Category Description:
+Mechanics includes resources that cover the study of the behavior of physical systems under the action of forces. Relevant topics in this category include fluid mechanics, solid mechanics, gas mechanics, mathematical modeling (chaos and fractals, finite element analysis), thermal engineering, fracture mechanics, heat and mass flow and transfer, phase equilibria studies, plasticity, adhesion, rheology, gravity effects, vibration effects, and wave motion analysis.
+
+Category Name:
+Medical Ethics
+Category Description:
+Medical Ethics covers resources on all aspects of ethics in health care and medicine.
+
+Category Name:
+Medical Informatics
+Category Description:
+Medical Informatics covers resources on health care information in clinical studies and medical research. This category includes resources on the evaluation, assessment, and use of health care technology, its consequences for patients, and its impact on society.
+
+Category Name:
+Medical Laboratory Technology
+Category Description:
+Medical Laboratory Technology covers resources on the testing, methods, and equipment used in clinical, medical, hospital, and pathology laboratories, including clinical chemistry and biochemical analysis of laboratory samples. Resources on the development and refinement of the diagnostic technologies used in these laboratories are also covered.
+
+Category Name:
+Medicine, General & Internal
+Category Description:
+Medicine, General & Internal covers resources on medical specialties such as general medicine, internal medicine, clinical physiology, pain management, military and hospital medicine. Resources focusing on family medicine and primary health care services are placed in the Primary Health Care category.
+
+Category Name:
+Medicine, Legal
+Category Description:
+Medicine, Legal covers resources on all aspects of medical legal issues, including government regulations and policies, malpractice, toxicological and pharmacological regulations, clinical therapeutic patents and other critical legal issues at the interface of law, medicine, and healthcare. The category also covers resources dealing with the various branches of forensic science.
+
+Category Name:
+Medicine, Research & Experimental
+Category Description:
+Medicine, Research & Experimental includes resources describing general medical research with a particular emphasis on extremely novel techniques and clinical interventions in a broad range of medical specializations and applications, including vaccine development, tissue replacement, immunotherapies, and other experimental therapeutic strategies. Resources in this category reflect clinical interventions that are in early stages of development, using in vitro or animal models, and small-scale clinical trials.
+
+Category Name:
+Metallurgy & Metallurgical Engineering
+Category Description:
+Metallurgy & Metallurgical Engineering includes resources that cover the numerous chemical and physical processes used to isolate a metallic element from its naturally occurring state, refine it, and convert it into a useful alloy or product. Topics in this category include corrosion prevention and control, hydrometallurgy, pyrometallurgy, electrometallurgy, phase equilibria, iron-making, steel-making, oxidation, plating and finishing, powder metallurgy, and welding.
+
+Category Name:
+Meteorology & Atmospheric Sciences
+Category Description:
+Meteorology & Atmospheric Sciences covers those resources that deal with the atmosphere and its phenomena, especially weather and weather forecasting. Resources in this category are concerned with the atmosphere's temperature, density, winds, clouds, precipitation and other characteristics, as well as the structure and evolution of the atmosphere in terms of external influences and the basic laws of physics. This category also includes resources dealing with climatology.
+
+Category Name:
+Microbiology
+Category Description:
+Microbiology includes resources dealing with all aspects of fundamental and applied studies of microorganisms, including bacteria, viruses, and fungi. This category also considers resources on the clinical aspects of the occurrence and treatment of microbial pathogens, basic science studies of microbial biochemistry and function, environmental microbiology, and bacterial/viral uses in biotechnology.
+
+Category Name:
+Microscopy
+Category Description:
+Microscopy covers those resources that focus on the interpretative application of microscope magnification to the study of materials that cannot be seen properly by the unaided eye. The instruments used in microscopy may be either optical in nature, or use radiation other than light for making enlarged images of minute objects (e.g., an electron microscope).
+
+Category Name:
+Mineralogy
+Category Description:
+Mineralogy includes resources that deal with the science of minerals, their crystallography, physical and chemical properties, classification, and the ways of distinguishing them.
+
+Category Name:
+Mining & Mineral Processing
+Category Description:
+Mining & Mineral Processing includes resources on locating and evaluating mineral deposits; designing and constructing mines; developing mining equipment; supervising mining operations and safety; and extracting, cleaning, sizing, and dressing mined material. Relevant topics in this category include exploration and mining geology, rock mechanics, geophysics, and mining science and technology.
+
+Category Name:
+Multidisciplinary Sciences
+Category Description:
+Multidisciplinary Sciences includes resources of a very broad or general character in the sciences. It covers the spectrum of major scientific disciplines such as Physics, Chemistry, Mathematics, Biology, etc. Nature and Science are the preeminent resources in this category and serve as typical examples. The Web site of the National Science Foundation is a good example of a web resource included in this category. Some specialized resources that have a wide range of applications in the sciences also may fall under this category. The journal Fractals---Complex Geometry Patterns and Scaling in Nature and Society would be an example of such a resource.
+
+Category Name:
+Mycology
+Category Description:
+Mycology includes resources on topics that range from the general biology of fungi to fungal diseases of humans, animals and plants.
+
+Category Name:
+Nanoscience & Nanotechnology
+Category Description:
+Nanoscience & Nanotechnology includes resources that focus on basic and applied research at the micro and nano level across a variety of disciplines including chemistry, biology, bioengineering, physics, electronics, clinical and medical science, chemical engineering and materials science.
+
+Category Name:
+Neuroimaging
+Category Description:
+Neuroimaging covers resources on the mapping technologies used to treat, diagnose, or monitor brain lesions and mental disorders.
+
+Category Name:
+Neurosciences
+Category Description:
+Neurosciences covers resources on all areas of basic research on the brain, neural physiology, and function in health and disease. The areas of focus include neurotransmitters, neuropeptides, neurochemistry, neural development, and neural behavior. Coverage also includes resources in neuro-endocrine and neuro-immune systems, somatosensory system, motor system and sensory motor integration, autonomic system as well as diseases of the nervous system.
+
+Category Name:
+Nuclear Science & Technology
+Category Description:
+Nuclear Science & Technology covers resources on nuclear energy (fission and fusion processes), nuclear energy and fuel, nuclear power, and nuclear electric power generation. This category also includes resources on nuclear engineering (the branch of technology that applies the nuclear fission process to power generation), nuclear safety, radiation effects, and radioactive waste management. Note: Resources on nuclear physics (low-energy physics) appear in the category PHYSICS, NUCLEAR.
+
+Category Name:
+Nursing
+Category Description:
+Nursing covers resources on all aspects of nursing science and practice such as administration, economics, management, education, technological applications and all clinical care specialties.
+
+Category Name:
+Nutrition & Dietetics
+Category Description:
+Nutrition & Dietetics covers resources concerning many aspects of nutrition, including general nutrition, nutrition and metabolism, nutrition science, clinical nutrition, vitamin research and nutritional biochemistry. Dietetics, the application of nutritional principles, is also included in this category.
+
+Category Name:
+Obstetrics & Gynecology
+Category Description:
+Obstetrics & Gynecology covers resources on the medical fields concerned with female reproductive function and reproductive organs. Obstetrics covers resources on pregnancy, fetal health, labor, and puerperium. Gynecology covers resources on the health and diseases of female sex organs and their impact on women's overall health. This category also includes resources on fertility, infertility, and contraception.
+
+Category Name:
+Oceanography
+Category Description:
+Oceanography covers resources concerning the scientific study and exploration of the oceans and seas in all their aspects, including the delimitation of their extent and depth, the physics and chemistry of their waters, and the exploration of their resources.
+
+Category Name:
+Oncology
+Category Description:
+Oncology covers resources on the mechanisms, causes, and treatments of cancer including environmental and genetic risk factors, and cellular and molecular carcinogenesis. Aspects of clinical oncology covered include surgical, radiological, chemical, and palliative care. This category is also concerned with resources on cancers of specific systems and organs.
+
+Category Name:
+Operations Research & Management Science
+Category Description:
+Operations Research & Management Science includes resources on the definition, analysis, and solution of complex problems. Relevant topics in this category include mathematical modeling, stochastic modeling, decision theory and systems, optimization theory, logistics, and control theory.
+
+Category Name:
+Ophthalmology
+Category Description:
+Ophthalmology covers resources on the eye, its diseases, and refractive errors. Coverage includes research on the cornea, retina, and eye diseases. This category also includes resources on physiological optics and optometry as well as reconstructive surgery.
+
+Category Name:
+Optics
+Category Description:
+Optics includes resources that deal with the genesis and propagation of light, the changes that it undergoes and produces, and other phenomena closely associated with it. Resources in this category cover subject areas such as lasers and laser technology, infrared physics and technology, microwave technology, quantum optics, lightwave technology, fiber optics, opto-electronics, and photonics. Resources on photometry and luminescence are also included in this category.
+
+Category Name:
+Ornithology
+Category Description:
+Ornithology covers resources concerning many aspects of the study of birds, including avian biology, field ornithology, avian biochemistry and physiology, avian systematics and taxonomy, raptor research, bird behavior and migration.
+
+Category Name:
+Orthopedics
+Category Description:
+Orthopedics covers resources on surgery and medical appliances as a means to preserve or restore function or alleviate pain in the musculoskeletal system, particularly the bones and joints.
+
+Category Name:
+Otorhinolaryngology
+Category Description:
+Otorhinolaryngology covers resources on basic and clinical research and medicine of the ears, nose and throat.
+
+Category Name:
+Paleontology
+Category Description:
+Paleontology includes resources that focus on the study of life and physical conditions, such as climate and geography, of past geological periods as recorded by fossil remains.
+
+Category Name:
+Parasitology
+Category Description:
+Parasitology covers resources concerning many aspects of the study of parasites, organisms that live in or on other living organisms, deriving benefits for themselves and often causing harm to their hosts.
+
+Category Name:
+Pathology
+Category Description:
+Pathology includes resources specializing in the techniques, causes, and developmental effect of disease on living tissue. This category also considers the medical and biomedical applications of histological and cytogenetic methods, the development and use of novel techniques and diagnostic applications, and the pathologic study of specific tissues or diseases.
+
+Category Name:
+Pediatrics
+Category Description:
+Pediatrics covers resources on basic and clinical research in pediatrics. Numerous pediatric specialties are covered including, cardiology and respiratory systems, dentistry, dermatology, developmental behavior, gastroenterology, hematology, immunology and infectious diseases, neurology, nutrition, oncology, psychiatry, surgery, tropical medicine, urology, and nephrology. Coverage also includes perinatology, neonatology, and adolescent medicine.
+
+Category Name:
+Peripheral Vascular Disease
+Category Description:
+Peripheral Vascular Disease covers resources on arterial occlusive disease (atherosclerosis or hardening of the arteries), venous obstruction and clotting, venous incompetence/insufficiency, cerebrovascular disease, aneurysms, vasospastic disorders, and other vascular disorders. This category also covers hypertension, circulation, and stroke. Resources on the diagnosis, treatment, and prevention of heart diseases are covered in the Cardiac & Cardiovascular Systems category.
+
+Category Name:
+Pharmacology & Pharmacy
+Category Description:
+Pharmacology & Pharmacy covers resources on the discovery and testing of bioactive substances, including animal research, clinical experience, delivery systems, and dispensing of drugs. This category also includes resources on the biochemistry, metabolism, and toxic or adverse effects of drugs.
+
+Category Name:
+Physics, Applied
+Category Description:
+Physics, Applied covers those resources dealing with the applications of condensed matter, optics, vacuum science, lasers, electronics, cryogenics, magnets and magnetism, acoustical physics, and mechanics. This category also may include resources on physics applications to other sciences, engineering, and industry.
+
+Category Name:
+Physics, Atomic, Molecular & Chemical
+Category Description:
+Physics, Atomic, Molecular & Chemical includes resources concerned with the physics of atoms and molecules. Topics covered in this category include the structure of atoms and molecules, atomic and molecular interactions with radiation, magnetic resonances and relaxation, Mossbauer effect, and atomic and molecular collision processes and interactions.
+
+Category Name:
+Physics, Condensed Matter
+Category Description:
+Physics, Condensed Matter covers resources that deal with the study of the structure and the thermal, mechanical, electrical, magnetic, and optical properties of condensed matter. Topics covered in this category include superconductivity, surfaces, interfaces, thin films, dielectrics, ferroelectrics, and semiconductors. This category also includes resources from the former category of Solid State Physics as well as resources on condensed fluids.
+
+Category Name:
+Physics, Fluids & Plasmas
+Category Description:
+Physics, Fluids & Plasmas covers resources on the kinetic and transport theory of fluids, the physical properties of gases, and the physics of plasmas and electric discharges. This category may include resources on nuclear fusion.
+
+Category Name:
+Physics, Mathematical
+Category Description:
+Physics, Mathematical includes resources that focus on mathematical methods in physics. It includes resources on logic, set theory, algebra, group theory, function theory, analysis, geometry, topology, and probability theory that have applications in physics.
+
+Category Name:
+Physics, Multidisciplinary
+Category Description:
+Physics, Multidisciplinary covers resources having a general or interdisciplinary approach to physics. This category also includes theoretical and experimental physics as well as special topics that have relevance to many areas of physics.
+
+Category Name:
+Physics, Nuclear
+Category Description:
+Physics, Nuclear includes resources on the study of nuclear structure, decay, radioactivity, reactions, and scattering. Resources in this category focus on low-energy physics. High-energy physics is covered in the PHYSICS, PARTICLES & FIELDS category.
+
+Category Name:
+Physics, Particles & Fields
+Category Description:
+Physics, Particles & Fields includes resources on the study of the structure and properties of elementary particles and resonances and their interactions. Resources in this category focus on high-energy physics. Low-energy physics is covered in the PHYSICS, NUCLEAR category.
+
+Category Name:
+Physiology
+Category Description:
+Physiology includes resources concerned with the normal and pathologic functioning of living cells, tissues, and organisms. Topics include comparative physiology, molecular biochemistry of cell function, applied physiology, and pharmacological intervention in pathophysiological processes.
+
+Category Name:
+Plant Sciences
+Category Description:
+Plant Sciences covers resources concerning many aspects of the study of plants including systematic, biochemical, agricultural, and pharmaceutical topics. This category includes materials on higher and lower plants, terrestrial and aquatic plants, plant cells, entire plants, and plant assemblages.
+
+Category Name:
+Polymer Science
+Category Description:
+Polymer Science includes all resources dealing with the study, production, and technology of natural or synthetic polymers. Resources on polymeric materials are also covered in this category.
+
+Category Name:
+Primary Health Care
+Category Description:
+Primary Health Care covers resources on all aspects of family medicine and primary health care services, including first contact, health assessments, laboratory and diagnostic procedures, medication management, disease prevention, early diagnosis and treatment and comprehensive strategies to improve the health status of individuals and communities.
+
+Category Name:
+Psychiatry
+Category Description:
+Psychiatry covers resources on clinical, therapeutic, research, and community aspects of human mental, emotional, and behavioral disorders.
+
+Category Name:
+Psychology
+Category Description:
+Psychology is concerned with resources on the study of human behavior and mental processes. This category covers the biological and neurological underpinnings of perception, thought, and behavior; psychological development and change over the life span; in addition to emotional and mental disturbances and diseases and their treatment. Resources that report on animal behavior to illuminate human behavior and mental processes are also covered.
+
+Category Name:
+Public, Environmental & Occupational Health
+Category Description:
+Public, Environmental & Occupational Health covers resources dealing with epidemiology, hygiene, and health; parasitic diseases and parasitology; tropical medicine; industrial medicine; occupational medicine; infection control; and preventive medicine. Also included are resources on environmental health; cancer causes and control; aviation, aerosol, and wilderness medicine.
+
+Category Name:
+Radiology, Nuclear Medicine & Medical Imaging
+Category Description:
+Radiology, Nuclear Medicine & Medical Imaging covers resources on radiation research in biology and biophysics. Resources in this category focus on interventional radiology, investigative radiology, neuroradiology, radiotherapy, and oncology. Nuclear Medicine resources are concerned with the diagnostic, therapeutic, and investigative use of radionuclides. Medical Imaging resources are concerned with computerized medical imaging and graphics.
+
+Category Name:
+Rehabilitation
+Category Description:
+Rehabilitation covers resources on therapy to aid in the recovery or enhancement of physical, cognitive, or social abilities diminished by birth defect, disease, injury, or aging.
+
+Category Name:
+Remote Sensing
+Category Description:
+Remote Sensing includes resources on the technique of remote observation and of obtaining reliable information about physical objects and the environment through the process of recording, measuring, and interpreting photographic images and patterns of electromagnetic radiation from space. This category also covers resources on the applications of remote sensing in environmental, atmospheric, meteorological, geographic, and geoscientific observations. Resources on geographic information systems that deal in large part with remote sensing are also included.
+
+Category Name:
+Reproductive Biology
+Category Description:
+Reproductive Biology includes resources that cover reproduction in humans, animals, and plants. This category ranges from the molecular biology of reproduction through reproductive nutrition, immunology, and toxicology.
+
+Category Name:
+Respiratory System
+Category Description:
+Respiratory System covers resources on all aspects of respiratory and lung diseases, including their relation to cardiovascular and thoracic surgery and diseases.
+
+Category Name:
+Rheumatology
+Category Description:
+Rheumatology covers resources on clinical, therapeutic, and laboratory research about arthritis and rheumatism, the chronic degenerative autoimmune inflammatory diseases that primarily affect joints and connective tissue.
+
+Category Name:
+Robotics
+Category Description:
+Robotics includes resources that cover the branch of engineering devoted to the design, training, and application of robots, mechanical devices capable of performing a variety of manipulation and locomotion tasks. Resources in this category draw from the fields of mechanical and electrical engineering, cybernetics, bionics, and artificial intelligence.
+
+Category Name:
+Soil Science
+Category Description:
+Soil Science covers resources concerning many aspects of the formation, nature, distribution, and utilization of soils including soil biology and fertility, soil conservation and tillage research, soil contamination and reclamation, soil biochemistry, and soil chemistry and physics.
+
+Category Name:
+Spectroscopy
+Category Description:
+Spectroscopy covers resources concerned with the production, measurement, and interpretation of electromagnetic spectra arising from either emission or absorption of radiant energy by various sources. This category includes resources that report on any of several techniques for analyzing the spectra of beams of particles or for determining mass spectra.
+
+Category Name:
+Sport Sciences
+Category Description:
+Sport Sciences covers resources on the applied physiology of human performance, physical conditioning for sports participation, optimal nutrition for sports performance, and the prevention and treatment of sports-related injuries and diseases. This category also includes resources on sport psychology and sociology.
+
+Category Name:
+Statistics & Probability
+Category Description:
+Statistics & Probability covers resources concerned with methods of obtaining, analyzing, summarizing, and interpreting numerical or quantitative data. Resources on the study of the mathematical structures and constructions used to analyze the probability of a given set of events from a family of outcomes are also covered.
+
+Category Name:
+Substance Abuse
+Category Description:
+Substance Abuse covers resources on the behavior, education, treatment, and research of alcohol, drug, and other substances of addiction.
+
+Category Name:
+Surgery
+Category Description:
+Surgery covers resources on general surgical topics including the different types of surgery (cardiovascular, neurosurgery, orthopedic, pediatric, or vascular); allied disciplines of surgery (surgical oncology, pathology, or radiology); and surgical techniques (arthroscopy, microscopy, or endoscopy).
+
+Category Name:
+Telecommunications
+Category Description:
+Telecommunications covers resources on the technical and engineering aspects of communications over long distances via telephone, television, cable, fiber optics, radio, computer networks, telegraph, satellites, and so on. Other relevant topics include electronics, opto-electronics, radar and sonar navigation, communications systems, microwaves, antennas, and wave propagation.
+
+Category Name:
+Thermodynamics
+Category Description:
+Thermodynamics includes resources that focus on the areas of physics examining the transformations of matter and energy in physical and chemical processes, particularly those processes that involve the transfer of heat and changes in temperature. Relevant topics in this category include cooling and heating systems, cryogenics, refrigeration, combustion, energy conversion, and thermal stresses.
+
+Category Name:
+Toxicology
+Category Description:
+Toxicology covers resources that focus on the identification, biochemistry, and effects of harmful substances, including the side effects of drugs, in animals, humans, and the environment.
+
+Category Name:
+Transplantation
+Category Description:
+Transplantation covers resources that focus on the assimilation of grafted tissue and the reconstitution of removed organs or parts of organs. The coverage focuses on transplantation procedures and the maintenance of transplanted tissues or organs. Specific transplantation coverage focuses on heart, lung, kidney, and bone marrow.
+
+Category Name:
+Transportation Science & Technology
+Category Description:
+Transportation Science & Technology covers resources on all aspects of the movement of goods and peoples as well as the design and maintenance of transportation systems. Topics covered in this category include logistics, vehicular design and technology, and transportation science and technology. Note: Resources that concentrate on transportation safety, policy, economics, and planning appear under the TRANSPORTATION category in the SSCI.
+
+Category Name:
+Tropical Medicine
+Category Description:
+Tropical Medicine covers resources on the study and treatment of disease, parasites, and other medical conditions unique to or originating in tropical regions.
+
+Category Name:
+Urology & Nephrology
+Category Description:
+Urology & Nephrology covers resources on the diagnosis and treatment of diseases of the genitourinary tract and kidneys. This category includes general urology and nephrology as well as specialty resources on the prostate, dialysis and other blood purification techniques, transplantation, and renal failure.
+
+Category Name:
+Veterinary Sciences
+Category Description:
+Veterinary Sciences covers resources concerning both the research and clinical aspects of animal health, diseases, injuries, nutrition, reproduction, and public health. This category includes materials on companion, farm, zoo, laboratory, wild, and aquatic animals.
+
+Category Name:
+Virology
+Category Description:
+Virology includes resources dealing with all aspects of viral organisms and host-virus interactions. Resources in this category cover the molecular, biochemical, and cellular studies of plant-, animal-, and human-specific viruses, as well as bacteriophages. This category also contains materials on medical virology and pathogenesis and treatment of viral diseases.
+
+Category Name:
+Water Resources
+Category Description:
+Water Resources covers resources concerning a number of water-related topics. These include desalination, ground water monitoring and remediation, hydrology, irrigation and drainage science and technology, water quality, hydraulic engineering, ocean and coastal management, river research and management, waterways and ports.
+
+Category Name:
+Zoology
+Category Description:
+Zoology covers resources concerning a broad range of topics on the study of animals. This category ranges from animal behavior and animal physiology to some aspects of animal ecology. The category does not include veterinary medicine, ornithology, or most aspects of entomology.
